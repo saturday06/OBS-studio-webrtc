@@ -1,3 +1,17 @@
+/CMakeCache.txt
+/CMakeFiles/
+/CPackConfig.cmake
+/CPackSourceConfig.cmake
+/config/obsconfig.h
+/deps/jansson/CMakeFiles/
+/deps/jansson/JanssonConfig.cmake
+/deps/jansson/JanssonConfigVersion.cmake
+/deps/jansson/include/
+/deps/jansson/private_include/
+/libobs/CMakeFiles/
+/libobs/LibObsConfig.cmake
+/libobs/LibObsConfigVersion.cmake
+
 #binaries
 *.exe
 *.dll
