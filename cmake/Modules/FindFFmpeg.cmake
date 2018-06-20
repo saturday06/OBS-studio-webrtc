@@ -49,6 +49,7 @@ function(find_ffmpeg_library component header)
 			${DepsPath${_lib_suffix}}
 			${DepsPath}
 			${PC_FFMPEG_${component}_INCLUDE_DIRS}
+			$ENV{HOME}/.local
 		PATHS
 			/usr/include /usr/local/include /opt/local/include /sw/include
 		PATH_SUFFIXES ffmpeg libav include)
